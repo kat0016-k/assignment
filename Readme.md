@@ -6,8 +6,11 @@ admin | admin
 Api Endpoints
 
 127.0.0.1/api/register # registers a User using Username Password and also creates a client object using signals
+
 127.0.0.1/api/works # gives all the works with "link" and "work_type"
+
 127.0.0.1/api/works/?work_type=youtube gives all the work with type youtube
+
 127.0.0.1/api/artists/?name=kartik gives out artist with name kartik
 
 
