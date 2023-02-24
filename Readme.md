@@ -1,7 +1,11 @@
 NsN Co Intern Assignment
+
 Django
+
 Admin panel  user | Pass
+
 admin | admin
+
 
 Api Endpoints
 
